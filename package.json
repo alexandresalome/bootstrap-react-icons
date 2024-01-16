@@ -1,6 +1,6 @@
 {
   "name": "@alexandresalome/bootstrap-react-icons",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Bootstrap icons as TypeScript React components",
   "keywords": [
     "bootstrap",
